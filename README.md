@@ -2,7 +2,7 @@
 
 ![banner](https://capsule-render.vercel.app/api?type=waving&color=2d6a4f&height=200&section=header&text=Karen%20Proust&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Web%20Developer%20Student&descAlignY=58&descSize=18)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Outfit&size=20&pause=1000&color=2d6a4f&center=true&vCenter=true&width=500&lines=Student+%F0%9F%90%B8+%E2%80%A2+Developer+%F0%9F%92%BB;Currently+looking+for+a+stage+or+alternance;Always+learning%2C+always+building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Outfit&size=20&pause=1000&color=2d6a4f&center=true&vCenter=true&width=500&lines=Student+%F0%9F%90%B8+%E2%80%A2+Developer+%F0%9F%92%BB;Currently+looking+for+a+stage+or+alternance)](https://git.io/typing-svg)
 
 <br/>
 
