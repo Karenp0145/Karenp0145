@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karen-proust/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-2d6a4f?style=flat-square&logo=github&logoColor=white)](https://karenp0145.github.io/FirstPortfolio/)
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-2d6a4f?style=flat-square&logo=handshake&logoColor=white)](#)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-2d6a4f?style=flat-square)](#)
 
 
 </div>
