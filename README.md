@@ -28,7 +28,7 @@
 
 <br/>
 
-[![Learning](https://skillicons.dev/icons?i=react,vue,tailwind,fastapi,mysql&theme=light)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=react,threejs,vue,tailwind,fastapi,mysql&theme=light)](https://skillicons.dev)
 
 </div>
 
